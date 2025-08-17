@@ -13,7 +13,7 @@ export const About = ({isDark}) => {
                     <p className="min-lg:w-sm">I enjoy exploring tools, network security, and ethical hacking concepts to build real-world protection skills. 🔐💻</p>
                     <div className="flex gap-x-3">
                         <button className="px-8 py-1 rounded-full bg-violet-500 text-white max-sm:px-5">Get In Touch</button>
-                        <button className={`px-8 py-1 rounded-full border-1 ${isDark ? 'border-violet-500' : ''} max-sm:px-5`}>Download Cv</button>
+                        <button className={`px-8 py-1 rounded-full border-1 ${isDark ? 'border-violet-500' : ''} max-sm:px-5`}>Download Resume</button>
                     </div>
                 </div>
                 <div className="flex items-center justify-center flex-col gap-7">
